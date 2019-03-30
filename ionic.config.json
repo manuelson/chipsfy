@@ -1,0 +1,8 @@
+{
+  "name": "chips",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "bfb70828"
+}
